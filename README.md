@@ -65,7 +65,7 @@ The developer assumes **no responsibility** for misuse or misinterpretation.
 # 🛠️ **INSTALLATION**
 
 ```bash
-git clone https://github.com/YourUsernameHere/password-checker-9000.git
+git clone https://github.com/chinotan201/password-checker-9000.git
 cd password-checker-9000
 pip install pyfiglet termcolor
 python main.py
